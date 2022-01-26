@@ -1,4 +1,12 @@
-﻿Option Strict On
+﻿'Morgan Puckett
+'RCET0265
+'Spring 2022
+'Say My Name... Again
+'
+
+
+
+Option Strict On
 Option Explicit On
 Option Compare Text
 
