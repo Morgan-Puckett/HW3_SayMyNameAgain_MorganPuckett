@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{1F1C4484-ACC8-41D4-82FC-97365A86CB42}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>HW3_SayMyNameAgain_MorganPuckett.Module1</StartupObject>
+    <StartupObject>HW3_SayMyNameAgain_MorganPuckett.SayMyNameAgain</StartupObject>
     <RootNamespace>HW3_SayMyNameAgain_MorganPuckett</RootNamespace>
     <AssemblyName>HW3_SayMyNameAgain_MorganPuckett</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -69,7 +69,7 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Module1.vb" />
+    <Compile Include="SayMyNameAgain.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
